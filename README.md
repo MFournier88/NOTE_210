@@ -8,3 +8,5 @@ git add *
 git commit -m "monmessage"
 git push origin main
 ```
+
+Prochaine notes
